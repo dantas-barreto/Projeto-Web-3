@@ -1,0 +1,30 @@
+#cabecalho {
+	background: yellow;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 25px;
+	margin: -8px -8px 0px -8px;
+}
+
+#corpo {
+	background: green;
+	width: 640px;
+	padding: 20px;
+	margin-left: 180px;
+	display: inline-block;
+}
+
+#lateral {
+	background: gray;
+	width: 250px;
+	padding: 10px;
+	margin-right: 180px;
+	margin-left: auto;
+	float: right;
+}
+
+.linkcabecalho {
+	text-decoration: none;
+	padding: 5px 10px;
+}
